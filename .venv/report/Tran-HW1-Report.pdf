@@ -1,0 +1,19 @@
+Task1-CartPole-v0 Random Agent Report
+====================================
+Number of episodes: 500
+Maximum reward: 94.0
+Average reward: 21.186
+Standard deviation of reward: 11.202473119807072
+====================================
+
+Note: The agent used random actions. This report reflects the performance of a random agent on the CartPole-v0 environment.
+
+Task2-CartPole-v0 Deterministic Policy  Report
+====================================
+Number of episodes: 500
+Maximum reward: 23.0
+Average reward: 23.0
+Standard deviation of reward: 0.0
+====================================
+
+Note: The agent used Deterministic Policy. agent begins with pushing the cart left, and each time-step agent toggles the movement until the pole is dropped, i.e., the episode gets ended

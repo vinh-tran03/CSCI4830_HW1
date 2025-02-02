@@ -1,0 +1,9 @@
+Task4b-Deterministic Policy on LunarLander-v3 Report
+====================================
+Number of episodes: 100
+Maximum reward: -824.8347519024367
+Average reward: -824.8347519024369
+Standard deviation of reward: 2.2737367544323206e-13
+====================================
+
+Note: The agent used a deterministic policy in the LunarLander-v3 environment.

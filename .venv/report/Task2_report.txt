@@ -1,0 +1,9 @@
+Task2-CartPole-v0 Deterministic Policy  Report
+====================================
+Number of episodes: 500
+Maximum reward: 23.0
+Average reward: 23.0
+Standard deviation of reward: 0.0
+====================================
+
+Note: The agent used Deterministic Policy. agent begins with pushing the cart left, and each time-step agent toggles the movement until the pole is dropped, i.e., the episode gets ended
